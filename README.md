@@ -1,14 +1,14 @@
 <h1>Hi, I'm Cristina! <br/><a 
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2> Data Science Projects:</h2>
 
 - <b>Class projects</b>
+  - [Predicting Hospital Readmissions](https://github.com/cristinaa16/DSC4900-project)
   - [Predicting Heart Health](https://github.com/cristinaa16/Predicting-Heart-Health/tree/main)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 [linkedin]: https://linkedin.com/in/Antonacci-Cristina
 
