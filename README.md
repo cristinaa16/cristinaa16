@@ -9,6 +9,7 @@ I'm a Data Science student at Belmont University with a strong interest in apply
 - <b>Class projects</b>
   - [Predicting Hospital Readmissions](https://github.com/cristinaa16/DSC4900-project)
   - [Predicting Heart Health](https://github.com/cristinaa16/Predicting-Heart-Health/tree/main)
+  - [Dog Breed Library](https://github.com/cristinaa16/Webpage) 
 
 <h2>  Connect with me:</h2>
 
